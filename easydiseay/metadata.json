@@ -1,0 +1,6 @@
+{
+  "name": "EasyDiseay",
+  "description": "Digital Crop Doctor for Bangladesh - Instant AI crop disease diagnosis and Bangladeshi medicine recommendations.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_OPENAI_API"]
+}
